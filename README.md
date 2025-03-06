@@ -1,4 +1,6 @@
 ## Hi there 👋
+🔭 I’m currently working on the Linux storage stack.
+🌱 I’m currently learning scheduling.
 
 <!--
 **azongchang/azongchang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
